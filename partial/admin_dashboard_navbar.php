@@ -14,6 +14,7 @@
           <ul class="dropdown-menu" aria-labelledby="navbarDropdown">
             <li><a class="dropdown-item" href="./student_insert.php">Add New Student</a></li>
             <li><a class="dropdown-item" href="./student.php">View Student Details</a></li>
+            <li><a class="dropdown-item" href="partial/attendance_monitoring.php">Attendance</a></li>
           </ul>
         </li>
         <li class="nav-item">

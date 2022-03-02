@@ -1,17 +1,4 @@
 <?php include('partial/header.php') ?>
-<?php
-session_start();
-if(!isset($_SESSION['AdminLoginId'])){
-    header("location: index.php");
-}
-
-
-if(isset($_POST['AdminLogout'])){
-    session_destroy();
-    header('location: index.php');
-}
-
-?>
 <?php require_once('./process.php'); ?>
  
     <section>
