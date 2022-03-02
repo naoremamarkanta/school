@@ -1,0 +1,156 @@
+/* Admin login section */
+.admin-container{
+    background: #000;
+    width: 70%;
+    margin-top: 10%;
+    margin-left: 15%;
+    padding: 25px;
+    border-radius: 30px;
+}
+.admin-container h2{
+    text-align: center;
+    text-transform: uppercase;
+    color: #fff;
+    margin-bottom: 30px;
+}
+.login_btn{
+    background: linear-gradient(to right, #7474BF 0%, #348AC7 51%, #7474BF 100%);
+    box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);
+    font-family: "Arial Black", Gadget, sans-serif;
+    border: none;
+    color: #fff;
+    height: 50px;
+    border-radius: 10px;
+    font-weight:700;
+    text-transform: uppercase;
+  }
+
+  /*admin sign up section */
+  
+  .admin-signin{
+    width: 70%;
+    border: 2px #348AC7 solid;
+    margin: 10px;
+    margin-top: 10%;
+    margin-left: 15%;
+    padding: 25px;
+    border-radius: 30px;
+  }
+
+  .signin_btn{
+    background-image: linear-gradient(to right, #00d2ff 0%, #3a7bd5 51%, #00d2ff 100%);
+    box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);
+    font-family: "Arial Black", Gadget, sans-serif;
+    border: none;
+    color: #fff;
+    height: 50px;
+    border-radius: 10px;
+    font-weight:700;
+    text-transform: uppercase;
+  }
+  .signin_btn:hover{
+    box-shadow: 0 10px 20px rgba(0,0,0,0.19), 0 6px 6px rgba(0,0,0,0.23);
+  }
+  h2{
+    text-align: center;
+    text-transform: uppercase;
+    color: #000;
+}
+p{
+    color: #ff0000;
+    font-weight:400;
+    border-radius: 10px;
+    width: 100%;
+    height: 45px;
+    padding-left: 10%;
+    padding-top: 10px;
+}
+/* Admin dashboard*/
+.search-title{
+  font-size: 15px;
+}
+.search-col{
+  background: #fff;
+  border-radius: 10px;
+  padding: 15px 10px 15px;
+}
+.search-container{
+  background: #C5C5C5;
+}
+.last-col{
+  font-size: 15px;
+}
+.last-col-link{
+  background:#647C90;
+  padding: 15px 10px 15px;
+  color: #fff;
+  border-radius: 10px;
+}
+.last-col-link a{
+  color: #fff;
+}
+.last-col-link a:hover{
+  color: #fff;
+}
+.navbar-text:hover{
+  border-bottom: 2px solid #000;
+}
+
+/* Student Insert */
+.container_class{
+  border: 2px #348AC7 solid;
+  border-radius: 20px;
+  margin: 10px;
+  padding: 50px;
+}
+.title{
+  text-transform: uppercase;
+  background: linear-gradient(to right, #30CFD0 0%, #330867 100%);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  font-family: 'Poppins', sans-serif;
+  margin-bottom: 25px;
+}
+.insert_btn{
+  background:linear-gradient(to right, #00d2ff 0%, #3a7bd5 51%, #00d2ff 100%);
+  box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);
+  font-family: "Arial Black", Gadget, sans-serif;
+  border: none;
+  color: #fff;
+  height: 50px;
+  border-radius: 10px;
+  font-weight:700;
+  text-transform: uppercase;
+}
+.insert_btn:hover{
+  box-shadow: 0 10px 20px rgba(0,0,0,0.19), 0 6px 6px rgba(0,0,0,0.23);
+}
+.insert_btn a{
+  text-decoration: none;
+  color:#fff;
+}
+.insert_btn a:hover{
+  color: #fff;
+} 
+/* update button */
+.submit_btn{
+  background: linear-gradient(to right, #7474BF 0%, #348AC7 51%, #7474BF 100%);
+  box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);
+  font-family: "Arial Black", Gadget, sans-serif;
+  border: none;
+  color: #fff;
+  height: 50px;
+  border-radius: 10px;
+  font-weight:700;
+  text-transform: uppercase;
+}
+.submit_btn:hover{
+  box-shadow: 0 10px 20px rgba(0,0,0,0.19), 0 6px 6px rgba(0,0,0,0.23);
+}
+.btn-a{
+  color: #fff;
+  text-decoration: none;
+}
+.btn-a:hover{
+  color: #fff;
+}
